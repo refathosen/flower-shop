@@ -2,7 +2,13 @@ Step - 1:
 before starting any project :
 1. plan how to start the project, 
 2. complete initial set up => create folder, index.html, styles etc
-3. break down the project into small steps
+3. connect github
+4. break down the project into small steps
+5. add font-family
+6. Always try to use semantic tags
+7. separate section : header, main , footer
+8. use meaningful class names
+9. use borders for set structure
 
 ==========================================================
 
